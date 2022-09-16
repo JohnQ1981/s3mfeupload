@@ -46,6 +46,7 @@ export default () => {
                 <DashboardLazy />
               </Route>
               <Route exact path="/dashboard1" component={DashboardLazy} />
+              <Route exact path="/dashboard2" component={DashboardLazy} />
               <Route path="/" component={MarketingLazy} />
             </Switch>
           </Suspense>
