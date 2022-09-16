@@ -23,7 +23,7 @@ const SignupForm2 = () => {
 <p></p>
 <p></p>
 <p></p>
-<p>DASHBOARD SIGN UP FORM 2</p><hr></hr>
+<p>DASHBOARD SIGN UP FORM 2 from dashboard</p><hr></hr>
 <hr></hr>
 <hr></hr>
 <hr></hr>
