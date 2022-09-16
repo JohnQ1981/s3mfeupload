@@ -23,7 +23,7 @@ const SignupForm3 = () => {
 <p></p>
 <p></p>
 <p></p>
-<p>DASHBOARD LANDING PAGE</p><hr></hr>
+<p>DASHBOARD LANDING PAGE Signup form3</p><hr></hr>
 <hr></hr>
 <hr></hr>
 <hr></hr>
@@ -31,7 +31,7 @@ const SignupForm3 = () => {
     <Button
             
             component={RouterLink}
-            to="/useraccountmanagement/createUser"
+            to="/pricing"
             
           >
             CreateUser3
