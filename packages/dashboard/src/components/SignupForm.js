@@ -24,7 +24,7 @@ const SignupForm = () => {
       <p></p>
       <p></p>
       <p></p>
-      <p>DASHBOARD SIGNUP FORM 1</p>
+      <p>DASHBOARD SIGNUP FORM 1- this is from dashboard</p>
       <hr></hr>
       <hr></hr>
       <hr></hr>
